@@ -1,0 +1,6 @@
+Claim Details
+Given Dataframe :
+   months_as_customer age policy_number  ... auto_make auto_mode auto_year
+0                328  48        521585  ...      Saab       92x      2004
+
+[1 rows x 38 columns]
